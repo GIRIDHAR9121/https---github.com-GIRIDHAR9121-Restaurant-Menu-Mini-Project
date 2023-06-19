@@ -1,0 +1,79 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background : linear-gradient(45deg,green,white);
+}
+a{
+
+    color:black;
+    text-decoration: none;
+    margin: 10px;
+    border:1px solid yellow ;
+    background-color: salmon;
+    padding: 10px;
+    border-radius: 10px;
+    
+    
+    
+}
+ a:hover{
+       background-color: green;
+ }
+ .menu{
+     text-align: center;
+
+ }
+ h1{
+    color: white;
+    text-align: center;
+    font-family:comic ;
+    background:linear-gradient(45deg,red,green);
+    padding: 10px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+
+ }
+ .heading{
+    margin-top: 40px;
+ }
+ h3{
+    color: red;
+    text-align: center;
+    font-size: 150%;
+ }
+ p{
+    color: black;
+    padding: 10px;
+    font-size: 150%;
+    font-style:italic;
+ }
+ table{
+    width: 100%;
+    text-align: center;
+
+
+ }
+ img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    border-radius: 10px;
+ }
+
+ h4{
+   text-align: right;
+   color:darkred;
+   font-size: 100%;
+   padding-right:2%;
+ }
+
+ td{
+
+   font-style: italic;
+ }
+ 
+ 
+
+ 

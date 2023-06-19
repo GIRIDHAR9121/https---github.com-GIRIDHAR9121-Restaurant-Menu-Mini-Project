@@ -1,0 +1,17 @@
+h1{
+    color: green;
+    text-align: center;
+    border: 20%;;
+}
+
+form{
+    color:black;
+    font-size: 150%;
+}
+body{
+    background:linear-gradient(45deg,white,gray);
+    
+}
+input{
+    background-color:red;
+}
